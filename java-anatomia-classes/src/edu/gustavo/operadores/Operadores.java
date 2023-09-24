@@ -1,4 +1,4 @@
-package edu.gustavo.tiposevariaveis;
+package edu.gustavo.operadores;
 
 public class Operadores {
     

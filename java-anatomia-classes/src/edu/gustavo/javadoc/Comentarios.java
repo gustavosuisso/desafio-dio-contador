@@ -1,5 +1,8 @@
 package edu.gustavo.javadoc;
 
+// comando javadoc para criar um arquivo html de documentação
+// javadoc -encoding UTF-8 -docencoding ISO-8859-1 -d ../docs src/*.java
+
 public class Comentarios {
     
     public static void main(String[] args){
@@ -22,7 +25,7 @@ public class Comentarios {
           */
           public void metodo(){
 
-            
+
 
           }
 }

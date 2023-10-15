@@ -1,4 +1,3 @@
-# dio-java-basico
-Repositório para armazenar todo o código do curso de Java Básico.
+# DESAFIO CONTADOR
+Repositório para armazenar o desafio contador proposto no bootcamp
 
-# Alterando conteúdo de um arquivo.
